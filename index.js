@@ -38,15 +38,18 @@
 // phone number
 // birthdate
 
-let FullName = prompt("enter your full name")
-let Adress = prompt("enter your Adress")
-let PhoneNumber = parseInt(prompt("enter your phone number"))
-let birthdate = parseInt(prompt("enter your birthdate"))
-let Age = [2024 - birthdate]
-console.log("Full Name: " + FullName);
-console.log("Adress: " + Adress);
-console.log("Phone Number: " + PhoneNumber);
-console.log("Birthdate: " + Age);
+// let FullName = prompt("enter your full name")
+// let Adress = prompt("enter your Adress")
+// let PhoneNumber = parseInt(prompt("enter your phone number"))
+// let birthdate = parseInt(prompt("enter your birthdate"))
+// let Age = [2024 - birthdate]
+// console.log("Full Name: " + FullName);
+// console.log("Adress: " + Adress);
+// console.log("Phone Number: " + PhoneNumber);
+// console.log("Birthdate: " + Age);
+
+
+
 
 
 
